@@ -1,0 +1,12 @@
+# Local data - input
+data/**/*.gz
+data/**/*.txt
+data/**/*.sql
+data/**/*.json
+
+# Local data - output
+output/**/*.json
+
+# pythonic things
+.venv/*
+**/*.pyc
